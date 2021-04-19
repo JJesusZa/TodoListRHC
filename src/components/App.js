@@ -11,7 +11,7 @@ function App() {
         <h1>
           todo<span>list</span>
         </h1>
-        <h2>Todo list con hooks y context</h2>
+        <h2>Todo list con hooks y context :)</h2>
       </header>
       <TodoApp />
 
