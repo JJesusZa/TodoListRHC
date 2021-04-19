@@ -5,7 +5,6 @@ import {
   TOGGLE_TODO,
   EDIT_TODO
 } from '../constants/actions';
-
 const reducer = (state, action) => {
   switch (action.type) {
     case ADD_TODO:

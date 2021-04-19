@@ -8,13 +8,13 @@ export default makeStyles({
     alignItems: 'center',
     justifyContent: 'space-between',
     paddingLeft: '0.5rem',
-    color: '#34495e',
+    color: '#d0e300',
     fontSize: '1rem',
     lineHeight: '2.5rem',
     overflowX: 'hidden',
     transition: 'all 0.3s ease',
     '&:hover': {
-      background: 'rgba(0, 0, 0, 0.03)',
+      background: 'rgba(208, 227, 0, 0.08)',
       cursor: 'pointer'
     },
     '&:hover div': {

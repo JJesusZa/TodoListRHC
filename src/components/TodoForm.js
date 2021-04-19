@@ -19,12 +19,13 @@ function TodoForm() {
       className={classes.TodoForm}
     >
       <input
-        placeholder="Add your task here..."
+        placeholder="Agrega una nueva tarea aqui"
         value={value}
         onChange={handleChange}
         className={classes.input}
+        required
       />
-    </form>
+    </form >
   );
 }
 

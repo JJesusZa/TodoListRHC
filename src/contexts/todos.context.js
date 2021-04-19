@@ -3,9 +3,10 @@ import useLocalStorageReducer from '../hooks/useLocalStorageReducer';
 import todosReducer from '../reducers/todos.reducer';
 
 const defaultTodos = [
-  { id: '0', task: 'Read a book', completed: false },
-  { id: '1', task: 'Jog in a playground', completed: true },
-  { id: '2', task: 'Write articles', completed: false }
+  { id: '0', task: 'Despertar', completed: false },
+  { id: '1', task: 'Cepillar mis dientes', completed: true },
+  { id: '2', task: 'Desayunar', completed: false },
+  { id: '3', task: 'Trabajar', completed: false }
 ];
 
 export const TodosContext = createContext();

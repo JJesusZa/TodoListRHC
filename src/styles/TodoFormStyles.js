@@ -10,7 +10,7 @@ export default makeStyles({
     height: '2rem',
     background: 'none',
     border: 'none',
-    borderBottom: '1px solid #34495e',
+    borderBottom: '1px solid #d0e300',
     color: '#34495e',
     fontSize: '1.2rem',
     fontWeight: '300',

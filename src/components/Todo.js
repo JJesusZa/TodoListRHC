@@ -45,7 +45,7 @@ function Todo({ id, task, completed }) {
           }}
         />
         <i
-          style={{ color: '#58b2dc' }}
+          style={{ color: '#d0e300' }}
           className="fas fa-pen"
           onClick={e => {
             e.stopPropagation();
